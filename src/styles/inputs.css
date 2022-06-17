@@ -1,0 +1,12 @@
+input[type="text"] {
+  width: 90%;
+  max-width: 420px;
+  height: 2.5rem;
+  background: var(--light);
+  border-radius: 0.5rem;
+  padding: 0.5rem;
+  border: 2px solid var(--light);
+  outline: 1.25rem solid #212121;
+  font-size: 1rem;
+  color: var(--dark);
+}
